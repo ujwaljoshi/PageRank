@@ -1,0 +1,1 @@
+The Current implementation creates an Matrix NxN for N links. As the number of links increase, Matrix size grows with it. This is a sparse matrix and the current mode of storage is not efficient. We can use some of the sparse matrix libraries for storage and operations.
